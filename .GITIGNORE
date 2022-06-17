@@ -1,6 +1,6 @@
-__pycache__
-node_modules
-tests
+/__pycache__
+/node_modules
+/tests
 
 [safe]
       directory = /home/yahir/Documents/pt/chromedriver_linux64
