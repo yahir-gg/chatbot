@@ -1,0 +1,39 @@
+materia,clave,grupo,profesor,horario,salon,modalidad
+matematicas discretas i,460001,DB01T,Carlos Rodríguez,Lunes: 15:00 – 17:00 y miercoles 14:00 – 17:00,L-524,A distancia
+programacion estructurada,460005,DB01T,Betzabet García,"Lunes 10:00-13:00, miercoles 10:00-13:00 y viernes 11:00-14:00",L-525,Mixta
+programación de web estático,450204,DB01T,POR ASIGNAR,Martes y jueves 10:00-13:00,L-526,A distancia
+historia y cultura de la computacion,450202,DB01T,JAVIER CASTILLO,Viernes 08:00-11:00,L-527,A distancia
+matematicas discretas i,460001,DB02T,Héctor Jiménez,Lunes 15:00 - 17:00 y miercoles 14:00-17:00,L-528,A distancia
+programacion estructurada,460005,DB02T,Wulfrano Luna,"Lunes 10:00-13:00, miercoles 10:00-13:00  y viernes 11:00-14:00                                         ",L-529,Mixta
+programacion de web estatico,450204,DB02T,"Rocío Abascal
+Rafael Pérez y Perez",Martes y jueves 08:00-11:00,L-530,A distancia
+historia y cultura de la computacion,450202,DB02T,POR ASIGNAR,Viernes 08:00-11:00,L-531,A distancia
+matematicas discretas i,460001,DB03T,Alfredo Mateos,Lunes 15:00 – 17:00 y miercoles 14:00-17:00,L-532,A distancia
+programacion estructurada,460005,DB03T,Dominique Decouchant,"Lunes 10:00-13:00, miercoles 10:00-13:00 y viernes 11:00-14:00                              ",L-533,Mixta
+programacion de web estatico,450204,DB03T,NARMO REYES,Martes y jueves 10:00-13:00,L-534,A distancia
+historia y cultura de la computacion,450202,DB03T,Santiago Negrete,Viernes 08:00-11:00,L-535,A distancia
+probabilidad y estadistica,460011,DE01T,Luis Leyva,Lunes 8:00 - 10:00  y jueves 08:00-11:00                  ,L-536,A distancia
+analisis y diseño de algoritmos,460013,DE01T,Carlos Rodríguez,Lunes 10:00 - 13:00 y miercoles 11:00-14:00    ,L-537,A distancia
+"arquitectura de redes
+(modelo osi de iso)",460020,DE01T,Ismael Robles,Miercoles 14:00-17:00 y viernes 15:00-17:00,L-538,A distancia
+gestion de sistemas de información y comunicación,421025,DE01T,Francisco López,Lunes 13:00 - 15:00 y jueves 11:00-14:00    ,L-539,A distancia
+laboratorio tematico i,450207,DE01T,Rafael Pérez,Martes 08:00-13:00 y miercoles 08:00-11:00,L-540,Mixta
+probabilidad y estadistica,460011,DE02T,Luis Leyva,Lunes 8:00 - 10:00 y jueves 08:00-11:00                       ,L-541,A distancia
+analisis y diseño de algoritmos,460013,DE02T,Héctor Jiménez,Lunes 10:00 - 13:00  y miercoles 11:00-14:00           ,L-542,A distancia
+"arquitectura de redes
+(modelo osi de iso)",460020,DE02T,Carlos Rivero,Miercoles 14:00-17:00 y viernes 15:00-17:00,L-543,A distancia
+gestion de sistemas de información y comunicación,421025,DE02T,Francisco López,Lunes 13:00 - 15:00 y jueves 11:00-14:00       ,L-544,A distancia
+laboratorio tematico i,450207,DE02T,Sergio Zepeda,"Lunes 15:00 – 17:00, martes 14:00-17:00 y jueves 14:00-17:00              ",L-545,Mixta
+analisis y diseño de algoritmos,460013,DE03T,Santiago Negrete,Lunes 10:00 - 13:00 y miercoles 11:00-14:00    ,L-546,A distancia
+integracion de sistemas,450211,DH01T,Christian Sánchez,Lunes 14:00 – 17:00 y Miercoles 15:00 – 17:00,L547,A distancia
+INTERACCION HUMANO-COMPUTADORA,450212,DH01T,Sergio Zepeda,Martes 11:00 – 13:00 y Jueves 11:00 – 14:00,L548,A distancia
+TALLER DE DISEÑO E INSTALACION DE REDES DE COMPUTO,450213,DH01T,Alfredo Mateos,Miercoles y Viernes 10:00 – 13:00,L549,Mixta
+"COMUNICACIÓN, INFORMACION Y SISTEMAS",450214,DH01T,Tiburcio Moreno,Lunes 13:00 – 15:00 y Miercoles 12:00 – 14:00,L550,A distancia
+LABORATORIO TEMATICO IV,450217,DH01T,Alba Núñez,"Martes 15:00 – 17:00, Jueves 14:00 – 17:00 y Viernes 14:00 – 17:00",L551,Mixta
+INTEGRACION DE SISTEMAS,450211,DH02T,Christian Sánchez,Lunes 11:00 – 14:00 y Miercoles 13:00 – 15:00,L552,A distancia
+INTERACCION HUMANO-COMPUTADORA,450212,DH02T,Erick López ,Martes 11:00 – 13:00 y Jueves 11:00 – 14:00,L553,A distancia
+TALLER DE DISEÑO E INSTALACION DE REDES DE COMPUTO,450213,DH02T,Carlos Rivero,Miercoles y Viernes 10:00 – 13:00,L554,Mixta
+"COMUNICACIÓN, INFORMACION Y SISTEMAS",450214,DH02T,Christian Lemaitre,Lunes y Miercoles 15:00 – 17:00,L555,A distancia
+SEMINARIO DE SISTEMAS DE INFORMACIÓN II,450227,DK01T,Isaac Rudomín,Lunes 09:00 – 12:00 y Miercoles 09:00 – 11:00,L556,A distancia
+SEMINARIO DE TECNOLOGÍAS DE LA INFORMACIÓN II,450237,DK01T,Isaac Rudomín,Lunes 12:00 – 14:00 y Miercoles 11:00 – 14:00,L557,A distancia
+INTRODUCCIÓN A LAS CORRIENTES PSICOLÓGICAS CONTEMPORANEAS,450083,DK01T,Tiburcio Moreno,Lunes y Miercoles 15:00 – 17:00,L558,A distancia

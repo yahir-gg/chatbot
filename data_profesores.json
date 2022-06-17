@@ -1,0 +1,151 @@
+{
+    "profesores": [
+        {
+            "id": "datap1",
+            "clave": "datap1",
+            "nombre": "Carlos Roberto Jaimez Gonz\u00e1lez",
+            "cargo": "Jefe de Departamento",
+            "informaci\u00f3n": " Dr. en Ciencias de la Computaci\u00f3n \nTel\u00e9fono: 58 14 65 00 \nExtensi\u00f3n: 6950 \nEmail: cjaimez@cua.uam.mx"
+        },
+        {
+            "id": "datap2",
+            "clave": "datap2",
+            "nombre": "Wulfrano Arturo Luna Ram\u00edrez",
+            "cargo": "Coordinador de Licenciatura",
+            "informaci\u00f3n": " Dr. en Ciencias de la Computaci\u00f3n \nTel\u00e9fono: 58 14 65 00 \nExtensi\u00f3n: 3504 \nEmail: wluna@cua.uam.mx"
+        },
+        {
+            "id": "datap3",
+            "clave": "datap3",
+            "nombre": "Israel Eli G\u00f3mez Lara",
+            "cargo": "Asistente Administrativo",
+            "informaci\u00f3n": " Lic. en Administraci\u00f3n de Empresas \nTel\u00e9fono: 58 14 65 00 \nExtensi\u00f3n: 6961 \nEmail: igomez@cua.uam.mx"
+        },
+        {
+            "id": "datap4",
+            "clave": "datap4",
+            "nombre": "Patricia  Flores Castillo",
+            "cargo": "Secretaria Biling\u00fce",
+            "informaci\u00f3n": " Secretaria del Departamento de TI. \nTel\u00e9fono: 58 14 65 00 \nExtensi\u00f3n: 6557 \nEmail: pflores@cua.uam.mx"
+        },
+        {
+            "id": "datap5",
+            "clave": "datap5",
+            "nombre": "Adriana Gabriela Ram\u00edrez de la Rosa",
+            "cargo": "Profesor/Investigador",
+            "informaci\u00f3n": " Mtra. en Ciencias Computacionales \nTel\u00e9fono: 58 14 65 00 \nExtensi\u00f3n: 2948 \nEmail: gramirez@cua.uam.mx"
+        },
+        {
+            "id": "datap6",
+            "clave": "datap6",
+            "nombre": "Alfredo Piero Mateos Papis",
+            "cargo": "Profesor/Investigador",
+            "informaci\u00f3n": " Dr. en Ingenier\u00eda \nTel\u00e9fono: 58 14 65 00 \nExtensi\u00f3n: 2948 \nEmail: amateos@cua.uam.mx"
+        },
+        {
+            "id": "datap7",
+            "clave": "datap7",
+            "nombre": "Carlos Joel Rivero Moreno",
+            "cargo": "Profesor/Investigador",
+            "informaci\u00f3n": " Dr. en Ciencias e Ingenier\u00eda de la Computaci\u00f3n \nTel\u00e9fono: 58 14 65 00 \nExtensi\u00f3n: 6950 \nEmail: crivero@cua.uam.mx"
+        },
+        {
+            "id": "datap8",
+            "clave": "datap8",
+            "nombre": "Carlos Rodr\u00edguez Lucatero",
+            "cargo": "Profesor/Investigador",
+            "informaci\u00f3n": " Dr. en Ciencias Computacionales \nTel\u00e9fono: 58 14 65 00 \nExtensi\u00f3n: 2953 \nEmail: crodriguez@cua.uam.mx"
+        },
+        {
+            "id": "datap9",
+            "clave": "datap9",
+            "nombre": "Christian Lema\u00eetre Le\u00f3n",
+            "cargo": "Profesor/Investigador",
+            "informaci\u00f3n": " Dr. en Matem\u00e1ticas Aplicadas \nTel\u00e9fono: 58 14 65 00 \nExtensi\u00f3n: 3531 \nEmail: clemaitre@cua.uam.mx"
+        },
+        {
+            "id": "datap10",
+            "clave": "datap10",
+            "nombre": "Christian S\u00e1nchez S\u00e1nchez",
+            "cargo": "Profesor/Investigador",
+            "informaci\u00f3n": " Dr. en Ciencias \nTel\u00e9fono: 58 14 65 00 \nExtensi\u00f3n: 3528 \nEmail: csanchez@cua.uam.mx"
+        },
+        {
+            "id": "datap11",
+            "clave": "datap11",
+            "nombre": "Dominique \u00c9mile Henri Decouchant  ",
+            "cargo": "Profesor/Investigador",
+            "informaci\u00f3n": " Dr. en Inform\u00e1tica \nTel\u00e9fono: 58 14 65 00 \nExtensi\u00f3n: 2949 \nEmail: decouchant@cua.uam.mx"
+        },
+        {
+            "id": "datap12",
+            "clave": "datap12",
+            "nombre": "Eduardo Leyva Del Foyo",
+            "cargo": "Profesor/Investigador",
+            "informaci\u00f3n": " Dr. en Ciencias \nTel\u00e9fono: 58 14 65 00 \nExtensi\u00f3n: 2949 \nEmail: lleyva@cua.uam.mx"
+        },
+        {
+            "id": "datap13",
+            "clave": "datap13",
+            "nombre": "Erick de Jes\u00fas L\u00f3pez Ornelas",
+            "cargo": "Profesor/Investigador",
+            "informaci\u00f3n": " Dr. en Inform\u00e1tica \nTel\u00e9fono: 58 14 65 00 \nExtensi\u00f3n: 3527 \nEmail: elopez@cua.uam.mx"
+        },
+        {
+            "id": "datap14",
+            "clave": "datap14",
+            "nombre": "Esa\u00fa Villatoro Tello",
+            "cargo": "Profesor/Investigador",
+            "informaci\u00f3n": " Dr. en Ciencias Computacionales \nTel\u00e9fono: 58 14 65 00 \nExtensi\u00f3n: 3540 \nEmail: evillatoro@cua.uam.mx"
+        },
+        {
+            "id": "datap15",
+            "clave": "datap15",
+            "nombre": "Francisco de As\u00eds L\u00f3pez Fuentes",
+            "cargo": "Profesor/Investigador",
+            "informaci\u00f3n": " Dr. en Ingenier\u00eda El\u00e9ctrica y Tecnolog\u00eda de la Informaci\u00f3n \nTel\u00e9fono: 58 14 65 00 \nExtensi\u00f3n: 3504 \nEmail: flopez@cua.uam.mx"
+        },
+        {
+            "id": "datap16",
+            "clave": "datap16",
+            "nombre": "H\u00e9ctor Jim\u00e9nez Salazar",
+            "cargo": "Profesor/Investigador",
+            "informaci\u00f3n": " Dr. en Ciencias \nTel\u00e9fono: 58 14 65 00 \nExtensi\u00f3n: 6557 \nEmail: hjimenez@cua.uam.mx"
+        },
+        {
+            "id": "datap17",
+            "clave": "datap17",
+            "nombre": "Joaqu\u00edn Sergio Zepeda Hern\u00e1ndez",
+            "cargo": "Profesor/Investigador",
+            "informaci\u00f3n": " Dr. en Ciencias en Ingenier\u00eda El\u00e9ctrica \nTel\u00e9fono: 58 14 65 00 \nExtensi\u00f3n: 3527 \nEmail: jzepeda@cua.uam.mx"
+        },
+        {
+            "id": "datap18",
+            "clave": "datap18",
+            "nombre": "Rafael P\u00e9rez y P\u00e9rez",
+            "cargo": "Profesor/Investigador",
+            "informaci\u00f3n": " Dr. en Ciencias de la Computaci\u00f3n e Inteligencia \nTel\u00e9fono: 58 14 65 00 \nExtensi\u00f3n: 3529 \nEmail: rperez@cua.uam.mx"
+        },
+        {
+            "id": "datap19",
+            "clave": "datap19",
+            "nombre": "Roc\u00edo  Abascal Mena",
+            "cargo": "Profesor/Investigador",
+            "informaci\u00f3n": " Dra. en Inform\u00e1tica e Informaci\u00f3n para la Sociedad \nTel\u00e9fono: 58 14 65 00 \nExtensi\u00f3n: 3501 \nEmail: mabascal@cua.uam.mx"
+        },
+        {
+            "id": "datap20",
+            "clave": "datap20",
+            "nombre": "Santiago Negrete Yankelevich",
+            "cargo": "Profesor/Investigador",
+            "informaci\u00f3n": " Dr. en Inteligencia Artificial \nTel\u00e9fono: 58 14 65 00 \nExtensi\u00f3n: 2954 \nEmail: snegrete@cua.uam.mx"
+        },
+        {
+            "id": "datap21",
+            "clave": "datap21",
+            "nombre": "Tiburcio Moreno Olivos",
+            "cargo": "Profesor/Investigador",
+            "informaci\u00f3n": " Dr. en Pedagog\u00eda \nTel\u00e9fono: 58 14 65 00 \nExtensi\u00f3n: 3534 \nEmail: tmoreno@cua.uam.mx"
+        }
+    ]
+}

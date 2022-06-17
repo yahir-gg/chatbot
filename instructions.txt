@@ -1,0 +1,8 @@
+Entorno de anaconda
+conda install -c anaconda pyaudio
+pip install gTTS
+pip install pygame
+pip install mutagen
+pip install transformers
+conda install -c anaconda mkl
+conda install -c pytorch pytorch torchvision

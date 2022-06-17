@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename='../static/landing-style.css' ) }}">
+    <title>Document</title>
+</head>
+<body>
+    <div class="main">
+        <div class="header">
+            <h1>Tutor</h1>
+            <h3>Chatbot de preguntas <br> frecuentes</h3>
+        </div>
+        <div class="logo-bot">
+            <img src="{{ url_for('static', filename='../static/img/chatbot.jpg' ) }}" alt="">
+        </div>
+    </div>
+
+    <div class="faq">
+        <div class="pregunta">
+            <p class="p">Si necesitas saber el horario, salón o profesor que imparta alguna materia, pregúntasalo a Tutor </p>
+            <p class="r">Ejemplo: ¿Cuáles son los datos de programación estructurada?</p>
+        </div>
+        <div class="pregunta">
+            <p class="p">Si necesitas los datos de contacto de algún profesor, pregúntaselo a Tutor</p>
+            <p class="r">Ejemplo: ¿Cuáles son los datos del profesor Christian Sánchez?</p>
+        </div>
+        <div class="pregunta">
+            <p class="p">Si necesitas saber que materias debes inscribir, pregúntaselo a Tutor </p>
+            <p class="r">Ejemplo: ¿Cuáles son las materias a inscribir en el trimestre 3?</p>
+        </div>
+        <div class="pregunta">
+            <p class="p">Si necesitas información de alguna materia del actual trimestre, pregúntaselo a Tutor</p>
+            <p class="r">Ejemplo: ¿Qué materias se imparten en el actual trimestre?</p>
+        </div>
+    </div>
+    <p id="recomienda">Tutor también te puede recomendar materias a inscribir. ¡Pídeselo!</p>
+    <div class="hero">
+        <div class="bloque">
+            <div class="imagen">
+                <img id="i1" src="{{ url_for('static', filename='../static/img/voz.jpg' ) }}" alt="">
+            </div>
+            <div class="texto">
+                <p class="title">Usa tu voz</p>
+                <p class="texto">Puedes preguntarle directamente a Tutor con tu voz o a través de texto </p>
+            </div>
+        </div>
+        <div class="bloque">
+            <div class="imagen">
+                <img id="i2" src="{{ url_for('static', filename='../static/img/responde2.jpg' ) }}" alt="">
+            </div>
+            <div class="texto">
+                <p class="title">Dile que te hable</p>
+                <p class="texto">Presiona el ícono de reproducir para escuchar la respuesta </p>
+            </div>
+        </div>
+        <div class="bloque">
+            <div class="imagen">
+                <img id="i3" src="{{ url_for('static', filename='../static/img/usalo.jpg' ) }}" alt="">
+            </div>
+            <div class="texto">
+                <p class="title">Úsalo</p>
+                <p class="texto">Tutor esta disponible las 24 hrs para responder tus preguntas </p>
+            </div>
+        </div>
+    </div>
+    <div class="footer">
+        <div class="link">
+            <p>Habla con tutor por <a href="/chat">aquí</a></p>
+        </div>
+    </div>
+
+</body>
+</html>

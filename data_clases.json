@@ -1,0 +1,319 @@
+{
+    "clases": [
+        {
+            "clave": "460001",
+            "nombre": "matematicas discretas i",
+            "grupo": "DB01T",
+            "profesor": "Carlos Rodr\u00edguez",
+            "horario": "Lunes: 15:00 \u2013 17:00 y miercoles 14:00 \u2013 17:00",
+            "salon": "L-524",
+            "id_interno": "pclase01"
+        },
+        {
+            "clave": "460005",
+            "nombre": "programacion estructurada",
+            "grupo": "DB01T",
+            "profesor": "Betzabet Garc\u00eda",
+            "horario": "Lunes 10:00-13:00, miercoles 10:00-13:00 y viernes 11:00-14:00",
+            "salon": "L-525",
+            "id_interno": "pclase02"
+        },
+        {
+            "clave": "450204",
+            "nombre": "programaci\u00f3n de web est\u00e1tico",
+            "grupo": "DB01T",
+            "profesor": "POR ASIGNAR",
+            "horario": "Martes y jueves 10:00-13:00",
+            "salon": "L-526",
+            "id_interno": "pclase03"
+        },
+        {
+            "clave": "450202",
+            "nombre": "historia y cultura de la computacion",
+            "grupo": "DB01T",
+            "profesor": "JAVIER CASTILLO",
+            "horario": "Viernes 08:00-11:00",
+            "salon": "L-527",
+            "id_interno": "pclase04"
+        },
+        {
+            "clave": "460001",
+            "nombre": "matematicas discretas i",
+            "grupo": "DB02T",
+            "profesor": "H\u00e9ctor Jim\u00e9nez",
+            "horario": "Lunes 15:00 - 17:00 y miercoles 14:00-17:00",
+            "salon": "L-528",
+            "id_interno": "pclase05"
+        },
+        {
+            "clave": "460005",
+            "nombre": "programacion estructurada",
+            "grupo": "DB02T",
+            "profesor": "Wulfrano Luna",
+            "horario": "Lunes 10:00-13:00, miercoles 10:00-13:00  y viernes 11:00-14:00                                         ",
+            "salon": "L-529",
+            "id_interno": "pclase06"
+        },
+        {
+            "clave": "450204",
+            "nombre": "programacion de web estatico",
+            "grupo": "DB02T",
+            "profesor": "Roc\u00edo Abascal\nRafael P\u00e9rez y Perez",
+            "horario": "Martes y jueves 08:00-11:00",
+            "salon": "L-530",
+            "id_interno": "pclase07"
+        },
+        {
+            "clave": "450202",
+            "nombre": "historia y cultura de la computacion",
+            "grupo": "DB02T",
+            "profesor": "POR ASIGNAR",
+            "horario": "Viernes 08:00-11:00",
+            "salon": "L-531",
+            "id_interno": "pclase08"
+        },
+        {
+            "clave": "460001",
+            "nombre": "matematicas discretas i",
+            "grupo": "DB03T",
+            "profesor": "Alfredo Mateos",
+            "horario": "Lunes 15:00 \u2013 17:00 y miercoles 14:00-17:00",
+            "salon": "L-532",
+            "id_interno": "pclase09"
+        },
+        {
+            "clave": "460005",
+            "nombre": "programacion estructurada",
+            "grupo": "DB03T",
+            "profesor": "Dominique Decouchant",
+            "horario": "Lunes 10:00-13:00, miercoles 10:00-13:00 y viernes 11:00-14:00                              ",
+            "salon": "L-533",
+            "id_interno": "pclase010"
+        },
+        {
+            "clave": "450204",
+            "nombre": "programacion de web estatico",
+            "grupo": "DB03T",
+            "profesor": "NARMO REYES",
+            "horario": "Martes y jueves 10:00-13:00",
+            "salon": "L-534",
+            "id_interno": "pclase10"
+        },
+        {
+            "clave": "450202",
+            "nombre": "historia y cultura de la computacion",
+            "grupo": "DB03T",
+            "profesor": "Santiago Negrete",
+            "horario": "Viernes 08:00-11:00",
+            "salon": "L-535",
+            "id_interno": "pclase11"
+        },
+        {
+            "clave": "460011",
+            "nombre": "probabilidad y estadistica",
+            "grupo": "DE01T",
+            "profesor": "Luis Leyva",
+            "horario": "Lunes 8:00 - 10:00  y jueves 08:00-11:00                  ",
+            "salon": "L-536",
+            "id_interno": "pclase12"
+        },
+        {
+            "clave": "460013",
+            "nombre": "analisis y dise\u00f1o de algoritmos",
+            "grupo": "DE01T",
+            "profesor": "Carlos Rodr\u00edguez",
+            "horario": "Lunes 10:00 - 13:00 y miercoles 11:00-14:00    ",
+            "salon": "L-537",
+            "id_interno": "pclase13"
+        },
+        {
+            "clave": "460020",
+            "nombre": "arquitectura de redes\n(modelo osi de iso)",
+            "grupo": "DE01T",
+            "profesor": "Ismael Robles",
+            "horario": "Miercoles 14:00-17:00 y viernes 15:00-17:00",
+            "salon": "L-538",
+            "id_interno": "pclase14"
+        },
+        {
+            "clave": "421025",
+            "nombre": "gestion de sistemas de informaci\u00f3n y comunicaci\u00f3n",
+            "grupo": "DE01T",
+            "profesor": "Francisco L\u00f3pez",
+            "horario": "Lunes 13:00 - 15:00 y jueves 11:00-14:00    ",
+            "salon": "L-539",
+            "id_interno": "pclase15"
+        },
+        {
+            "clave": "450207",
+            "nombre": "laboratorio tematico i",
+            "grupo": "DE01T",
+            "profesor": "Rafael P\u00e9rez",
+            "horario": "Martes 08:00-13:00 y miercoles 08:00-11:00",
+            "salon": "L-540",
+            "id_interno": "pclase16"
+        },
+        {
+            "clave": "460011",
+            "nombre": "probabilidad y estadistica",
+            "grupo": "DE02T",
+            "profesor": "Luis Leyva",
+            "horario": "Lunes 8:00 - 10:00 y jueves 08:00-11:00                       ",
+            "salon": "L-541",
+            "id_interno": "pclase17"
+        },
+        {
+            "clave": "460013",
+            "nombre": "analisis y dise\u00f1o de algoritmos",
+            "grupo": "DE02T",
+            "profesor": "H\u00e9ctor Jim\u00e9nez",
+            "horario": "Lunes 10:00 - 13:00  y miercoles 11:00-14:00           ",
+            "salon": "L-542",
+            "id_interno": "pclase18"
+        },
+        {
+            "clave": "460020",
+            "nombre": "arquitectura de redes\n(modelo osi de iso)",
+            "grupo": "DE02T",
+            "profesor": "Carlos Rivero",
+            "horario": "Miercoles 14:00-17:00 y viernes 15:00-17:00",
+            "salon": "L-543",
+            "id_interno": "pclase19"
+        },
+        {
+            "clave": "421025",
+            "nombre": "gestion de sistemas de informaci\u00f3n y comunicaci\u00f3n",
+            "grupo": "DE02T",
+            "profesor": "Francisco L\u00f3pez",
+            "horario": "Lunes 13:00 - 15:00 y jueves 11:00-14:00       ",
+            "salon": "L-544",
+            "id_interno": "pclase20"
+        },
+        {
+            "clave": "450207",
+            "nombre": "laboratorio tematico i",
+            "grupo": "DE02T",
+            "profesor": "Sergio Zepeda",
+            "horario": "Lunes 15:00 \u2013 17:00, martes 14:00-17:00 y jueves 14:00-17:00              ",
+            "salon": "L-545",
+            "id_interno": "pclase21"
+        },
+        {
+            "clave": "460013",
+            "nombre": "analisis y dise\u00f1o de algoritmos",
+            "grupo": "DE03T",
+            "profesor": "Santiago Negrete",
+            "horario": "Lunes 10:00 - 13:00 y miercoles 11:00-14:00    ",
+            "salon": "L-546",
+            "id_interno": "pclase22"
+        },
+        {
+            "clave": "450211",
+            "nombre": "integracion de sistemas",
+            "grupo": "DH01T",
+            "profesor": "Christian S\u00e1nchez",
+            "horario": "Lunes 14:00 \u2013 17:00 y Miercoles 15:00 \u2013 17:00",
+            "salon": "L547",
+            "id_interno": "pclase23"
+        },
+        {
+            "clave": "450212",
+            "nombre": "INTERACCION HUMANO-COMPUTADORA",
+            "grupo": "DH01T",
+            "profesor": "Sergio Zepeda",
+            "horario": "Martes 11:00 \u2013 13:00 y Jueves 11:00 \u2013 14:00",
+            "salon": "L548",
+            "id_interno": "pclase24"
+        },
+        {
+            "clave": "450213",
+            "nombre": "TALLER DE DISE\u00d1O E INSTALACION DE REDES DE COMPUTO",
+            "grupo": "DH01T",
+            "profesor": "Alfredo Mateos",
+            "horario": "Miercoles y Viernes 10:00 \u2013 13:00",
+            "salon": "L549",
+            "id_interno": "pclase25"
+        },
+        {
+            "clave": "450214",
+            "nombre": "COMUNICACI\u00d3N, INFORMACION Y SISTEMAS",
+            "grupo": "DH01T",
+            "profesor": "Tiburcio Moreno",
+            "horario": "Lunes 13:00 \u2013 15:00 y Miercoles 12:00 \u2013 14:00",
+            "salon": "L550",
+            "id_interno": "pclase26"
+        },
+        {
+            "clave": "450217",
+            "nombre": "LABORATORIO TEMATICO IV",
+            "grupo": "DH01T",
+            "profesor": "Alba N\u00fa\u00f1ez",
+            "horario": "Martes 15:00 \u2013 17:00, Jueves 14:00 \u2013 17:00 y Viernes 14:00 \u2013 17:00",
+            "salon": "L551",
+            "id_interno": "pclase27"
+        },
+        {
+            "clave": "450211",
+            "nombre": "INTEGRACION DE SISTEMAS",
+            "grupo": "DH02T",
+            "profesor": "Christian S\u00e1nchez",
+            "horario": "Lunes 11:00 \u2013 14:00 y Miercoles 13:00 \u2013 15:00",
+            "salon": "L552",
+            "id_interno": "pclase28"
+        },
+        {
+            "clave": "450212",
+            "nombre": "INTERACCION HUMANO-COMPUTADORA",
+            "grupo": "DH02T",
+            "profesor": "Erick L\u00f3pez ",
+            "horario": "Martes 11:00 \u2013 13:00 y Jueves 11:00 \u2013 14:00",
+            "salon": "L553",
+            "id_interno": "pclase29"
+        },
+        {
+            "clave": "450213",
+            "nombre": "TALLER DE DISE\u00d1O E INSTALACION DE REDES DE COMPUTO",
+            "grupo": "DH02T",
+            "profesor": "Carlos Rivero",
+            "horario": "Miercoles y Viernes 10:00 \u2013 13:00",
+            "salon": "L554",
+            "id_interno": "pclase30"
+        },
+        {
+            "clave": "450214",
+            "nombre": "COMUNICACI\u00d3N, INFORMACION Y SISTEMAS",
+            "grupo": "DH02T",
+            "profesor": "Christian Lemaitre",
+            "horario": "Lunes y Miercoles 15:00 \u2013 17:00",
+            "salon": "L555",
+            "id_interno": "pclase31"
+        },
+        {
+            "clave": "450227",
+            "nombre": "SEMINARIO DE SISTEMAS DE INFORMACI\u00d3N II",
+            "grupo": "DK01T",
+            "profesor": "Isaac Rudom\u00edn",
+            "horario": "Lunes 09:00 \u2013 12:00 y Miercoles 09:00 \u2013 11:00",
+            "salon": "L556",
+            "id_interno": "pclase32"
+        },
+        {
+            "clave": "450237",
+            "nombre": "SEMINARIO DE TECNOLOG\u00cdAS DE LA INFORMACI\u00d3N II",
+            "grupo": "DK01T",
+            "profesor": "Isaac Rudom\u00edn",
+            "horario": "Lunes 12:00 \u2013 14:00 y Miercoles 11:00 \u2013 14:00",
+            "salon": "L557",
+            "id_interno": "pclase33"
+        },
+        {
+            "clave": "450083",
+            "nombre": "INTRODUCCI\u00d3N A LAS CORRIENTES PSICOL\u00d3GICAS CONTEMPORANEAS",
+            "grupo": "DK01T",
+            "profesor": "Tiburcio Moreno",
+            "horario": "Lunes y Miercoles 15:00 \u2013 17:00",
+            "salon": "L558",
+            "id_interno": "pclase34"
+        }
+    ]
+}

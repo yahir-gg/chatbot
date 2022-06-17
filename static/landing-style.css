@@ -1,0 +1,114 @@
+*{
+    margin: 0;
+    font-family: "Source Sans Pro", sans-serif;
+}
+.main{
+    width: 100%;
+    height: 650px;
+    margin: auto;
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
+
+.main h1, .main h3, #recomienda{
+    color: #5CB097;
+}
+#recomienda{
+    font-size: 60px;
+    text-align: center;
+}
+.main h1{
+    margin-top: 0px;
+    font-size: 80px;
+}
+.main h3{
+    font-size: 30px;
+}
+.logo-bot img{
+    margin-top: 0px;
+    width: 58%;
+    height: 40%;
+}
+.header{
+    width: 50%;
+}
+.logo-bot{
+    width: 50%;
+}
+.faq{
+    background-color: rgb(240, 242, 241);
+    height: 650px;
+    padding: 30px;
+}
+.pregunta, #recomienda{
+    margin: 20px 126px;
+    margin-top: 30px;
+}
+.p{
+    color: rgb(37, 51, 92);
+    font-size: 35px;
+    font-weight: 700;
+}
+.r{
+    font-size: 26px;
+    color: rgb(19, 136, 144);
+    font-weight: 700;
+}
+.hero{
+    display: flex;
+    padding: 30px;
+}
+.bloque{
+    margin: 20px 50px;
+}
+#i1{
+    width: 250px;
+    height: 176px;
+}
+#i2{
+    width: 180px;
+    height: 180px;
+}
+#i3{
+    width: 275px;
+    height: 162px;
+}
+.imagen{
+    text-align: center;
+}
+.title{
+    color: rgb(19, 136, 144);
+    font-size: 28px;
+    font-weight: 700;
+    text-align: center;
+}
+.texto{
+    font-size: 18px;
+    text-align: center;
+}
+.footer{
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: royalblue;
+}
+.link{
+    width: 300px;
+    height: 50px;
+    border: solid 1px white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.link p{
+    font-size: 18px;
+    color: white;
+    text-align: center;
+}
+.link a{
+    font-weight: 700;
+    color: white;
+    text-decoration: none;
+}

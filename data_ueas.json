@@ -1,0 +1,573 @@
+{
+    "ueas": [
+        {
+            "id": "01",
+            "id_interno": "datau01",
+            "clave": "4000005",
+            "nombre": "Introducci\u00f3n al Pensamiento Matem\u00e1tico",
+            "grupo": []
+        },
+        {
+            "id": "02",
+            "id_interno": "datau02",
+            "clave": "4000007",
+            "nombre": "Seminario sobre Sustentabilidad",
+            "grupo": []
+        },
+        {
+            "id": "03",
+            "id_interno": "datau03",
+            "clave": "4000008",
+            "nombre": "Taller de Literacidad Acad\u00e9mica",
+            "grupo": []
+        },
+        {
+            "id": "04",
+            "id_interno": "datau04",
+            "clave": "4600000",
+            "nombre": "Taller de Matem\u00e1ticas",
+            "grupo": []
+        },
+        {
+            "id": "05",
+            "id_interno": "datau05",
+            "clave": "4502002",
+            "nombre": "Historia y Cultura de la Computaci\u00f3n",
+            "grupo": [
+                {
+                    "grupo": "DB01T",
+                    "horario": "Viernes 08:00-11:00",
+                    "profesor": "JAVIER CASTILLO",
+                    "salon": "L-527"
+                },
+                {
+                    "grupo": "DB02T",
+                    "horario": "Viernes 08:00-11:00",
+                    "profesor": "POR ASIGNAR",
+                    "salon": "L-531"
+                },
+                {
+                    "grupo": "DB03T",
+                    "horario": "Viernes 08:00-11:00",
+                    "profesor": "Santiago Negrete",
+                    "salon": "L-535"
+                }
+            ]
+        },
+        {
+            "id": "06",
+            "id_interno": "datau06",
+            "clave": "4502004",
+            "nombre": "Programaci\u00f3n de Web Est\u00e1tico",
+            "grupo": [
+                {
+                    "grupo": "DB01T",
+                    "horario": "Martes y jueves 10:00-13:00",
+                    "profesor": "POR ASIGNAR",
+                    "salon": "L-526"
+                },
+                {
+                    "grupo": "DB02T",
+                    "horario": "Martes y jueves 08:00-11:00",
+                    "profesor": "Roc\u00edo Abascal\nRafael P\u00e9rez y Perez",
+                    "salon": "L-530"
+                },
+                {
+                    "grupo": "DB03T",
+                    "horario": "Martes y jueves 10:00-13:00",
+                    "profesor": "NARMO REYES",
+                    "salon": "L-534"
+                }
+            ]
+        },
+        {
+            "id": "07",
+            "id_interno": "datau07",
+            "clave": "4600001",
+            "nombre": "Matem\u00e1ticas Discretas I",
+            "grupo": [
+                {
+                    "grupo": "DB01T",
+                    "horario": "Lunes: 15:00 \u2013 17:00 y miercoles 14:00 \u2013 17:00",
+                    "profesor": "Carlos Rodr\u00edguez",
+                    "salon": "L-524"
+                },
+                {
+                    "grupo": "DB02T",
+                    "horario": "Lunes 15:00 - 17:00 y miercoles 14:00-17:00",
+                    "profesor": "H\u00e9ctor Jim\u00e9nez",
+                    "salon": "L-528"
+                },
+                {
+                    "grupo": "DB03T",
+                    "horario": "Lunes 15:00 \u2013 17:00 y miercoles 14:00-17:00",
+                    "profesor": "Alfredo Mateos",
+                    "salon": "L-532"
+                }
+            ]
+        },
+        {
+            "id": "08",
+            "id_interno": "datau08",
+            "clave": "4600005",
+            "nombre": "Programaci\u00f3n Estructurada",
+            "grupo": [
+                {
+                    "grupo": "DB01T",
+                    "horario": "Lunes 10:00-13:00, miercoles 10:00-13:00 y viernes 11:00-14:00",
+                    "profesor": "Betzabet Garc\u00eda",
+                    "salon": "L-525"
+                },
+                {
+                    "grupo": "DB02T",
+                    "horario": "Lunes 10:00-13:00, miercoles 10:00-13:00  y viernes 11:00-14:00                                         ",
+                    "profesor": "Wulfrano Luna",
+                    "salon": "L-529"
+                },
+                {
+                    "grupo": "DB03T",
+                    "horario": "Lunes 10:00-13:00, miercoles 10:00-13:00 y viernes 11:00-14:00                              ",
+                    "profesor": "Dominique Decouchant",
+                    "salon": "L-533"
+                }
+            ]
+        },
+        {
+            "id": "09",
+            "id_interno": "datau09",
+            "clave": "4502001",
+            "nombre": "Seminario de Comunicaci\u00f3n, Dise\u00f1o y Tecnolog\u00edas de la Informaci\u00f3n",
+            "grupo": []
+        },
+        {
+            "id": "10",
+            "id_interno": "datau10",
+            "clave": "4600002",
+            "nombre": "Matem\u00e1ticas Discretas II",
+            "grupo": []
+        },
+        {
+            "id": "11",
+            "id_interno": "datau11",
+            "clave": "4600009",
+            "nombre": "Estructura de Datos",
+            "grupo": []
+        },
+        {
+            "id": "12",
+            "id_interno": "datau12",
+            "clave": "4600012",
+            "nombre": "Arquitectura de Computadoras",
+            "grupo": []
+        },
+        {
+            "id": "13",
+            "id_interno": "datau13",
+            "clave": "4210011",
+            "nombre": "Fundamentos de Teor\u00eda Administrativa",
+            "grupo": []
+        },
+        {
+            "id": "14",
+            "id_interno": "datau14",
+            "clave": "4502003",
+            "nombre": "L\u00f3gica y Programaci\u00f3n L\u00f3gica",
+            "grupo": []
+        },
+        {
+            "id": "15",
+            "id_interno": "datau15",
+            "clave": "4600006",
+            "nombre": "Programaci\u00f3n Orientada a Objetos",
+            "grupo": []
+        },
+        {
+            "id": "16",
+            "id_interno": "datau16",
+            "clave": "4600017",
+            "nombre": "Sistemas Operativos",
+            "grupo": []
+        },
+        {
+            "id": "17",
+            "id_interno": "datau17",
+            "clave": "4210025",
+            "nombre": "Gesti\u00f3n de Sistemas de Informaci\u00f3n y Comunicaci\u00f3n",
+            "grupo": [
+                {
+                    "grupo": "DE01T",
+                    "horario": "Lunes 13:00 - 15:00 y jueves 11:00-14:00    ",
+                    "profesor": "Francisco L\u00f3pez",
+                    "salon": "L-539"
+                },
+                {
+                    "grupo": "DE02T",
+                    "horario": "Lunes 13:00 - 15:00 y jueves 11:00-14:00       ",
+                    "profesor": "Francisco L\u00f3pez",
+                    "salon": "L-544"
+                }
+            ]
+        },
+        {
+            "id": "18",
+            "id_interno": "datau18",
+            "clave": "4502007",
+            "nombre": "Laboratorio Tem\u00e1tico I",
+            "grupo": [
+                {
+                    "grupo": "DE01T",
+                    "horario": "Martes 08:00-13:00 y miercoles 08:00-11:00",
+                    "profesor": "Rafael P\u00e9rez",
+                    "salon": "L-540"
+                },
+                {
+                    "grupo": "DE02T",
+                    "horario": "Lunes 15:00 \u2013 17:00, martes 14:00-17:00 y jueves 14:00-17:00              ",
+                    "profesor": "Sergio Zepeda",
+                    "salon": "L-545"
+                }
+            ]
+        },
+        {
+            "id": "19",
+            "id_interno": "datau19",
+            "clave": "4600011",
+            "nombre": "Probabilidad y Estad\u00edstica",
+            "grupo": [
+                {
+                    "grupo": "DE01T",
+                    "horario": "Lunes 8:00 - 10:00  y jueves 08:00-11:00                  ",
+                    "profesor": "Luis Leyva",
+                    "salon": "L-536"
+                },
+                {
+                    "grupo": "DE02T",
+                    "horario": "Lunes 8:00 - 10:00 y jueves 08:00-11:00                       ",
+                    "profesor": "Luis Leyva",
+                    "salon": "L-541"
+                }
+            ]
+        },
+        {
+            "id": "20",
+            "id_interno": "datau20",
+            "clave": "4600013",
+            "nombre": "An\u00e1lisis y Dise\u00f1o de Algoritmos",
+            "grupo": [
+                {
+                    "grupo": "DE01T",
+                    "horario": "Lunes 10:00 - 13:00 y miercoles 11:00-14:00    ",
+                    "profesor": "Carlos Rodr\u00edguez",
+                    "salon": "L-537"
+                },
+                {
+                    "grupo": "DE02T",
+                    "horario": "Lunes 10:00 - 13:00  y miercoles 11:00-14:00           ",
+                    "profesor": "H\u00e9ctor Jim\u00e9nez",
+                    "salon": "L-542"
+                },
+                {
+                    "grupo": "DE03T",
+                    "horario": "Lunes 10:00 - 13:00 y miercoles 11:00-14:00    ",
+                    "profesor": "Santiago Negrete",
+                    "salon": "L-546"
+                }
+            ]
+        },
+        {
+            "id": "21",
+            "id_interno": "datau21",
+            "clave": "4600020",
+            "nombre": "Arquitectura de Redes (Modelo OSI de ISO)",
+            "grupo": [
+                {
+                    "grupo": "DE01T",
+                    "horario": "Miercoles 14:00-17:00 y viernes 15:00-17:00",
+                    "profesor": "Ismael Robles",
+                    "salon": "L-538"
+                },
+                {
+                    "grupo": "DE02T",
+                    "horario": "Miercoles 14:00-17:00 y viernes 15:00-17:00",
+                    "profesor": "Carlos Rivero",
+                    "salon": "L-543"
+                }
+            ]
+        },
+        {
+            "id": "22",
+            "id_interno": "datau22",
+            "clave": "4210013",
+            "nombre": "Comportamiento Humano en las Organizaciones I",
+            "grupo": []
+        },
+        {
+            "id": "23",
+            "id_interno": "datau23",
+            "clave": "4502006",
+            "nombre": "Teor\u00eda de Aut\u00f3matas y Lenguajes Formales",
+            "grupo": []
+        },
+        {
+            "id": "24",
+            "id_interno": "datau24",
+            "clave": "4502015",
+            "nombre": "Laboratorio Tem\u00e1tico II",
+            "grupo": []
+        },
+        {
+            "id": "25",
+            "id_interno": "datau25",
+            "clave": "4600018",
+            "nombre": "Bases de Datos",
+            "grupo": []
+        },
+        {
+            "id": "26",
+            "id_interno": "datau26",
+            "clave": "4600021",
+            "nombre": "Sistemas Distribuidos",
+            "grupo": []
+        },
+        {
+            "id": "27",
+            "id_interno": "datau27",
+            "clave": "4210018",
+            "nombre": "Comportamiento Humano en las Organizaciones II",
+            "grupo": []
+        },
+        {
+            "id": "28",
+            "id_interno": "datau28",
+            "clave": "4502008",
+            "nombre": "Inteligencia Artificial I",
+            "grupo": []
+        },
+        {
+            "id": "29",
+            "id_interno": "datau29",
+            "clave": "4502009",
+            "nombre": "Programaci\u00f3n Web-Din\u00e1mico",
+            "grupo": []
+        },
+        {
+            "id": "30",
+            "id_interno": "datau30",
+            "clave": "4502010",
+            "nombre": "Seminario de Seguridad",
+            "grupo": []
+        },
+        {
+            "id": "31",
+            "id_interno": "datau31",
+            "clave": "4502016",
+            "nombre": "Laboratorio Tem\u00e1tico III",
+            "grupo": []
+        },
+        {
+            "id": "32",
+            "id_interno": "datau32",
+            "clave": "4502011",
+            "nombre": "Integraci\u00f3n de Sistemas",
+            "grupo": [
+                {
+                    "grupo": "DH01T",
+                    "horario": "Lunes 14:00 \u2013 17:00 y Miercoles 15:00 \u2013 17:00",
+                    "profesor": "Christian S\u00e1nchez",
+                    "salon": "L547"
+                },
+                {
+                    "grupo": "DH02T",
+                    "horario": "Lunes 11:00 \u2013 14:00 y Miercoles 13:00 \u2013 15:00",
+                    "profesor": "Christian S\u00e1nchez",
+                    "salon": "L552"
+                }
+            ]
+        },
+        {
+            "id": "33",
+            "id_interno": "datau33",
+            "clave": "4502012",
+            "nombre": "Interacci\u00f3n Humano-Computadora",
+            "grupo": [
+                {
+                    "grupo": "DH01T",
+                    "horario": "Martes 11:00 \u2013 13:00 y Jueves 11:00 \u2013 14:00",
+                    "profesor": "Sergio Zepeda",
+                    "salon": "L548"
+                },
+                {
+                    "grupo": "DH02T",
+                    "horario": "Martes 11:00 \u2013 13:00 y Jueves 11:00 \u2013 14:00",
+                    "profesor": "Erick L\u00f3pez ",
+                    "salon": "L553"
+                }
+            ]
+        },
+        {
+            "id": "34",
+            "id_interno": "datau34",
+            "clave": "4502013",
+            "nombre": "Taller de Dise\u00f1o e Instalaci\u00f3n de Redes de C\u00f3mputo",
+            "grupo": [
+                {
+                    "grupo": "DH01T",
+                    "horario": "Miercoles y Viernes 10:00 \u2013 13:00",
+                    "profesor": "Alfredo Mateos",
+                    "salon": "L549"
+                },
+                {
+                    "grupo": "DH02T",
+                    "horario": "Miercoles y Viernes 10:00 \u2013 13:00",
+                    "profesor": "Carlos Rivero",
+                    "salon": "L554"
+                }
+            ]
+        },
+        {
+            "id": "35",
+            "id_interno": "datau35",
+            "clave": "4502014",
+            "nombre": "Comunicaci\u00f3n, Informaci\u00f3n y Sistemas",
+            "grupo": [
+                {
+                    "grupo": "DH01T",
+                    "horario": "Lunes 13:00 \u2013 15:00 y Miercoles 12:00 \u2013 14:00",
+                    "profesor": "Tiburcio Moreno",
+                    "salon": "L550"
+                },
+                {
+                    "grupo": "DH02T",
+                    "horario": "Lunes y Miercoles 15:00 \u2013 17:00",
+                    "profesor": "Christian Lemaitre",
+                    "salon": "L555"
+                }
+            ]
+        },
+        {
+            "id": "36",
+            "id_interno": "datau36",
+            "clave": "4502017",
+            "nombre": "Laboratorio Tem\u00e1tico IV",
+            "grupo": [
+                {
+                    "grupo": "DH01T",
+                    "horario": "Martes 15:00 \u2013 17:00, Jueves 14:00 \u2013 17:00 y Viernes 14:00 \u2013 17:00",
+                    "profesor": "Alba N\u00fa\u00f1ez",
+                    "salon": "L551"
+                }
+            ]
+        },
+        {
+            "id": "37",
+            "id_interno": "datau37",
+            "clave": "4502051",
+            "nombre": "Optativa de Movilidad de Intercambio I",
+            "grupo": []
+        },
+        {
+            "id": "38",
+            "id_interno": "datau38",
+            "clave": "4502052",
+            "nombre": "Optativa de Movilidad de Intercambio II",
+            "grupo": []
+        },
+        {
+            "id": "39",
+            "id_interno": "datau39",
+            "clave": "4502053",
+            "nombre": "Optativa de Movilidad de Intercambio III",
+            "grupo": []
+        },
+        {
+            "id": "40",
+            "id_interno": "datau40",
+            "clave": "4502054",
+            "nombre": "Optativa de Movilidad de Intercambio IV",
+            "grupo": []
+        },
+        {
+            "id": "41",
+            "id_interno": "datau41",
+            "clave": "4502018",
+            "nombre": "Proyecto Terminal I\u200b",
+            "grupo": []
+        },
+        {
+            "id": "42",
+            "id_interno": "datau42",
+            "clave": "4502019",
+            "nombre": "Proyecto Terminal II",
+            "grupo": []
+        },
+        {
+            "id": "43",
+            "id_interno": "datau43",
+            "clave": "4502020",
+            "nombre": "Proyecto Terminal III",
+            "grupo": []
+        },
+        {
+            "id": "44",
+            "id_interno": "datau44",
+            "clave": "-",
+            "nombre": "Optativa de orientacion",
+            "grupo": []
+        },
+        {
+            "id": "45",
+            "id_interno": "datau45",
+            "clave": "-",
+            "nombre": "Optativa de orientacion",
+            "grupo": []
+        },
+        {
+            "id": "46",
+            "id_interno": "datau46",
+            "clave": "-",
+            "nombre": "Optativa de orientacion",
+            "grupo": []
+        },
+        {
+            "id": "47",
+            "id_interno": "datau47",
+            "clave": "-",
+            "nombre": "Optativa de orientacion",
+            "grupo": []
+        },
+        {
+            "id": "48",
+            "id_interno": "datau48",
+            "clave": "-",
+            "nombre": "Optativa Divisional o Interdivisional",
+            "grupo": []
+        },
+        {
+            "id": "49",
+            "id_interno": "datau49",
+            "clave": "-",
+            "nombre": "Optativa Divisional o Interdivisional",
+            "grupo": []
+        },
+        {
+            "id": "50",
+            "id_interno": "datau50",
+            "clave": "-",
+            "nombre": "Optativa Divisional o Interdivisional",
+            "grupo": []
+        },
+        {
+            "id": "51",
+            "id_interno": "datau51",
+            "clave": "-",
+            "nombre": "Optativa Divisional o Interdivisional",
+            "grupo": []
+        },
+        {
+            "id_interno": "link",
+            "clave": "link",
+            "nombre": "https://n9.cl/ueas-22i",
+            "grupo": []
+        }
+    ]
+}

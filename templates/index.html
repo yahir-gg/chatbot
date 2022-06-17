@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="{{ url_for('static', filename='../static/style.css' ) }}">
+  <title>Chatbot Tutor</title>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+</head>
+<body>
+  <div class="boxed">
+      <div class="title"><span>Tutor</span></div>
+      <div id="chatbox">
+        <p class="botText">
+          <span id="mensaje-sp">Hola, Soy Tutor. ¿Qué puedo hacer por ti?</span>
+        </p>
+      </div>
+      <div id="userInput">
+      </div>
+      <div class="botones">
+        <!--<button id="btnStopRecord">Parar la grabacion</button>-->
+          <div class="botones-container">
+            <input id="textInput" type="text" name="msg" placeholder="Escribe tu mensaje" />
+            <input type="image" src="{{ url_for('static', filename='../static/img/microfono.png' ) }}" id="btnStartRecord" ></input>
+            <input id="btnEscuchar" type="image" src="{{ url_for('static', filename='../static/img/tocar.png' ) }}"></input>
+            <input id="btnStop" type="image" src="{{ url_for('static', filename='../static/img/mudo.png' ) }}"></input>
+          </div>
+      </div>
+  </div>
+  <script src="{{ url_for('static', filename='conexion_chatbot.js' ) }}"></script>
+</body>
+</html>
