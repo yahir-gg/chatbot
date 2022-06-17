@@ -1,5 +1,5 @@
-/__pycache__
-/node_modules
+__pycache__/*
+node_modules/*
 /tests
 
 [safe]
